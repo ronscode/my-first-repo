@@ -7,9 +7,13 @@ function marinaraSauce(cookName) {
     console.log("Add " + oneFourth + "cup water, " + two + " cans of crushed tomates, and salt and season with black pepper to taste");
     console.log("Cover the pot, bring to a boil, reuce the heat to medium low, and simmer until the sauce is heated, about 10 minutes");
     console.log("Stir in " + oneFourth + " cup roughly chopped fresh basil, salt and pepper as needed.");
+    
+    function enchillada () {
+
+    }
 
 }
-
+funky
 
 marinaraSauce("Ron");
 
