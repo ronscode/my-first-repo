@@ -13,7 +13,7 @@ function marinaraSauce(cookName) {
     }
 
 }
-funky
+
 
 marinaraSauce("Ron");
 
